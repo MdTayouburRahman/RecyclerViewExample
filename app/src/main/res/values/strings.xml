@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyRecycalerView</string>
+
+    <string-array name="file_names">
+
+        <item>PSD files</item>
+        <item>Ai files</item>
+        <item>MP3 files</item>
+        <item>MP4 files</item>
+        <item>SVG files</item>
+        <item>GIF files</item>
+        <item>Converter files</item>
+        <item>Upload files</item>
+        <item>Download files</item>
+        <item>Folder files</item>
+        <item>Document files</item>
+
+
+    </string-array>
+
+    <string-array name="desciptions">
+
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+        <item>this is random Descriptions</item>
+<item>this is random Descriptions</item>
+
+    </string-array>
+</resources>
